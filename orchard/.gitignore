@@ -1,0 +1,5 @@
+### Grunt Stuff ###
+lib/node_modules
+
+### macOS ###
+*.DS_Store
